@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/diabetes-tracker/static/css/main.e6c13ad2.css",
+    "main.js": "/diabetes-tracker/static/js/main.d6f84a5a.js",
+    "static/js/488.259df964.chunk.js": "/diabetes-tracker/static/js/488.259df964.chunk.js",
+    "index.html": "/diabetes-tracker/index.html",
+    "main.e6c13ad2.css.map": "/diabetes-tracker/static/css/main.e6c13ad2.css.map",
+    "main.d6f84a5a.js.map": "/diabetes-tracker/static/js/main.d6f84a5a.js.map",
+    "488.259df964.chunk.js.map": "/diabetes-tracker/static/js/488.259df964.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d6f84a5a.js"
+  ]
+}
